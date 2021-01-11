@@ -1,0 +1,9 @@
+
+*.iml
+*.pyc
+.idea/
+Problems/
+*.yaml
+*.html
+Password Hacker/task/logins.txt
+Password Hacker/task/tests.py
